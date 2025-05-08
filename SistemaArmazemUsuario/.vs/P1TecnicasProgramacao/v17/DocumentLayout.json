@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|c:\\users\\giovanni\\desktop\\sistemaarmazemusuario\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\mod_global.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|solutionrelative:mod_global.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\frm_opcao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|solutionrelative:frm_opcao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\frm_opcao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|solutionrelative:frm_opcao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\usuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|solutionrelative:usuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\usuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|solutionrelative:usuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\visualizar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|solutionrelative:visualizar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\visualizar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B31DE492-B64E-4D0F-A4AB-A78ABE858592}|P1TecnicasProgramacao.vbproj|solutionrelative:visualizar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 79,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mod_global.vb",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\mod_global.vb",
+              "RelativeDocumentMoniker": "mod_global.vb",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\mod_global.vb",
+              "RelativeToolTip": "mod_global.vb",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-04T21:21:27.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_opcao.vb",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\frm_opcao.vb",
+              "RelativeDocumentMoniker": "frm_opcao.vb",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\frm_opcao.vb",
+              "RelativeToolTip": "frm_opcao.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-04T21:20:36.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_opcao.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\frm_opcao.vb",
+              "RelativeDocumentMoniker": "frm_opcao.vb",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\frm_opcao.vb [Design]",
+              "RelativeToolTip": "frm_opcao.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-04T20:32:56.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.vb",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\login.vb",
+              "RelativeDocumentMoniker": "login.vb",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\login.vb",
+              "RelativeToolTip": "login.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-04T20:21:53.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\login.vb",
+              "RelativeDocumentMoniker": "login.vb",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\login.vb [Design]",
+              "RelativeToolTip": "login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-04T20:16:46.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "visualizar.vb",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\visualizar.vb",
+              "RelativeDocumentMoniker": "visualizar.vb",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\visualizar.vb",
+              "RelativeToolTip": "visualizar.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwFYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-03T19:44:35.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "visualizar.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\visualizar.vb",
+              "RelativeDocumentMoniker": "visualizar.vb",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\visualizar.vb [Design]",
+              "RelativeToolTip": "visualizar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-03T19:41:28.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "usuarios.vb",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\usuarios.vb",
+              "RelativeDocumentMoniker": "usuarios.vb",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\usuarios.vb",
+              "RelativeToolTip": "usuarios.vb",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAjwGcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-03T19:41:20.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "usuarios.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\usuarios.vb",
+              "RelativeDocumentMoniker": "usuarios.vb",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\SistemaArmazemUsuario\\usuarios.vb [Design]",
+              "RelativeToolTip": "usuarios.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-03T17:52:28.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
